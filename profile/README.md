@@ -10,7 +10,7 @@ PEAK is one of those competitive games where skill gaps hit hard—some players 
 
 The **PEAK mod** is a multifunction cheat toolkit that enhances your gameplay in every possible way. From sharper accuracy to full vision control, it transforms matches into highlight reels. Whether you’re pushing aggressively or playing tactical, the mod adapts to your style.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Menu-blueviolet)](https://peak-mod-menus.github.io/.github/)
 
 ---
 
